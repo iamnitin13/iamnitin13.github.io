@@ -98,7 +98,7 @@ input[type="number"]::-webkit-inner-spin-button {
 
 textarea {
   outline: none;
-  border: none;
+  
 }
 
 textarea:focus, input:focus {
